@@ -1,0 +1,9 @@
+/* .box {
+    display: flex;
+    justify-content: space-between;
+} */
+
+.card {
+    border-radius: 20px;
+    border: 1px solid red;
+}
